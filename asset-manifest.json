@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/teamvoy-test/static/css/main.67b09288.chunk.css",
+    "main.js": "/teamvoy-test/static/js/main.1e272d5e.chunk.js",
+    "main.js.map": "/teamvoy-test/static/js/main.1e272d5e.chunk.js.map",
+    "runtime-main.js": "/teamvoy-test/static/js/runtime-main.01a7558f.js",
+    "runtime-main.js.map": "/teamvoy-test/static/js/runtime-main.01a7558f.js.map",
+    "static/js/2.1f3faf73.chunk.js": "/teamvoy-test/static/js/2.1f3faf73.chunk.js",
+    "static/js/2.1f3faf73.chunk.js.map": "/teamvoy-test/static/js/2.1f3faf73.chunk.js.map",
+    "index.html": "/teamvoy-test/index.html",
+    "static/css/main.67b09288.chunk.css.map": "/teamvoy-test/static/css/main.67b09288.chunk.css.map",
+    "static/js/2.1f3faf73.chunk.js.LICENSE.txt": "/teamvoy-test/static/js/2.1f3faf73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a7558f.js",
+    "static/js/2.1f3faf73.chunk.js",
+    "static/css/main.67b09288.chunk.css",
+    "static/js/main.1e272d5e.chunk.js"
+  ]
+}
